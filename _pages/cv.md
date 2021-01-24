@@ -21,8 +21,7 @@ Research experience
   * Supervisor: Dohun Kim
   * 2019 - present
   
-* 
-Atomic, Molecular, Optical and Positron Physics (AMOPP) Group: Research Assistant
+* Atomic, Molecular, Optical and Positron Physics (AMOPP) Group: Research Assistant
   * University College London
   * Supervisor: Professor Carla Figueira de Morisson Faria
   * 2019 Summer
@@ -31,15 +30,6 @@ Atomic, Molecular, Optical and Positron Physics (AMOPP) Group: Research Assistan
   * Seoul National University
   * Supervisor: Sungchul Hohng
   * 2018
-  
-Skills
-======
-* Languages
-* Machine Learning
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Numerical Methods
 
 Publications
 ======
@@ -53,14 +43,23 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Honors
-======
-* 1
-
 Scholarships
 ======
 * Hansung SonJaeHan 
 * Presidental Scholarship
+
+Honors
+======
+* 1
+
+Skills
+======
+* Languages
+* Machine Learning
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Numerical Methods
 
 Teaching
 ======
