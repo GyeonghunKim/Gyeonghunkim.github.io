@@ -13,7 +13,7 @@ main:
     url: /teaching/    
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /categories/
     
   - title: "About"
     url: /about/
