@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Gyeonghun Kim's personal blog
+Hi!
+
+I am interested in various topics: quantum computing, machine learning, data visualization, partial differential equations.
 ======
-Hi! 
