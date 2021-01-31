@@ -1,5 +1,5 @@
 ---
-title: "윈도우 10에 WSL 설치하기"
+title: "윈도우 10의 새로운 기능! WSL 설치 및 사용하기"
 categories: WSL-환경설정
 tags:
   - WSL
@@ -58,6 +58,12 @@ gallery7:
     title: "Image 1 title caption"
 ---
 
+WSL?
+=========
+
+
+WSL 설치하기
+===========
 ## 1. 설치 가능 조건
 WSL을 설치하기 위해서는 64비트 PC, Windows 10 1607 이상이면 가능합니다. 본인 컴퓨터의 윈도우 버전을 확인하기 위해서는 아래의 경로로 들어가면 됩니다. 
 
@@ -68,7 +74,7 @@ WSL을 설치하기 위해서는 64비트 PC, Windows 10 1607 이상이면 가�
 {% include gallery id="gallery1" %}
 
 
-## 2. WSL설치하기 
+## 2. WSL설치하기
 WSL의 설치과정은 크게 세 단계로 나누어집니다. 첫 번째 단계는 WSL의 설치를 위해서 윈도우 기능을 켜는 것, 두 번째 단계는 window store에서 ubuntu를 설치하는 것, 그리고 마지막은 설치 된 ubuntu를 실행해 계정을 만드는 것 입니다. 
 
 ### 1. 윈도우에서 Linux용 하위 기능 켜기
@@ -95,8 +101,8 @@ WSL의 설치과정은 크게 세 단계로 나누어집니다. 첫 번째 단�
 {% include gallery id="gallery5" %}
 
 
-## 3. WSL 기본 사용법
-
+WSL 사용하기
+===========
 WSL환경에서 기존의 우분투 shell환경과 다른 것이 있다면 윈도우 파일에 접근이 가능하다는 것 입니다. 물론 그 외에도 사소한 차이가 있긴 합니다만, 일반적으로 관련 에러메시지와 WSL을 함께 검색하면 해결 방법이 구글에 나와 있습니다. 
 WSL환경을 사용하는 것이 기존의 VMware를 사용하는 것에 비해 어떤 점이 나아졌냐고 한다면 가장 큰 것은 windows파일에 직접 접근이 가능하다는 것 입니다. 
 
@@ -129,9 +135,9 @@ WSL환경을 사용하는 것이 기존의 VMware를 사용하는 것에 비해 
 ### 2. WSL과 윈도우 어플리케이션 연결
 WSL shell을 이용하여 코딩을 진행해도 되지만, 매우 벌거롭습니다. 그래서 원활한 코딩을 위해서 윈도우 프로그램과 SSH로 연동을 하면 쉽게 사용할 수 있는 경우가 있습니다. C++의 경우는 ecilipse나 CLion을 사용할 수 있고, Python은 VSCode insider를 이용하여 진행하게 됩니다.이에 관해서는 다른 글에서 다루었습니다. 
 
-[CLion과 WSL을 이용한 윈도우에서 우분투 환경으로 C++ 코딩하기](https://gyeonghunkim.github.io/blog/%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95/WSL-Clion/)
+[CLion과 WSL을 이용한 윈도우에서 우분투 환경으로 C++ 코딩하기](https://gyeonghun.kim/wsl-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/WSL-Clion/)
 
-[WSL 파이썬 인터프리터 윈도우에서 사용하기](https://gyeonghunkim.github.io/wsl-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/install-VSCode-on-WSL/)
+[WSL 파이썬 인터프리터 윈도우에서 사용하기](https://gyeonghun.kim/wsl-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/install-VSCode-on-WSL/)
 
-[WSL에 설치된 아나콘다 윈도우에서 사용하기 + jupyter notebook 사용하기](https://gyeonghunkim.github.io/wsl-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/anacoda-python-WSL-VSCode/)
+[WSL에 설치된 아나콘다 윈도우에서 사용하기 + jupyter notebook 사용하기](https://gyeonghun.kim/wsl-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/anacoda-python-WSL-VSCode/)
 
