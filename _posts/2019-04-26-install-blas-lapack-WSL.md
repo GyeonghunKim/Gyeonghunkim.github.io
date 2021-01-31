@@ -47,9 +47,9 @@ gallery3:
 ## 0. Preliminary
 이후의 내용은 윈도우에 WSL을 이용하여 Ubuntu 18.04가 설치되어있고, CLion으로 연동되어 있는 환경에 대한 설명입니다! Native Ubuntu에 대해서도 아래의 설명대로 하면 쉽게 설치할 수 있을 것이나, 윈도우 환경에서는 아래의 WSL 설치 과정을 먼저 진행해주세요!
 
-[Window에 WSL설치하기](https://gyeonghunkim.github.io/blog/%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95/install-WSL/)
+[윈도우 10의 새로운 기능! WSL 설치 및 사용하기](https://gyeonghun.kim/wsl-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/install-WSL/)
 
-[WSL 컴파일러 윈도우에서 사용하기 (with CLion)](https://gyeonghunkim.github.io/blog/%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95/WSL-Clion/)
+[WSL 컴파일러 윈도우에서 사용하기 (with CLion)](https://gyeonghun.kim/wsl-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/WSL-Clion/)
 
 ## 1. BLAS? LAPACK?
 [BLAS](http://www.netlib.org/blas/)와 [LAPACK](http://www.netlib.org/lapack/)은 각각 선형대수를 위한 Fortran library입니다. 이를 컴파일 된 함수를 불러와 C++에서 사용할 수 있습니다. LAPACK과 BLAS를 이용하는 이유는 직접 사용했을 때, 익숙해지면 행렬 연산을 쉽게 할 수 있다는 것도 있지만, 이걸 기반으로 만들어진 다른 프로그램을 사용하는데에도 필요합니다.  
