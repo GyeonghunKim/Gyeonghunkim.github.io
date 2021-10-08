@@ -2,13 +2,16 @@
 main:
   - title: "CV"
     url: /cv/
-    
-  - title: "Publications and Presentations"
-    url: /publications/
-
+ 
   - title: "Projects"
     url: /projects/   
-    
+       
+  - title: "Presentations"
+    url: /talks/
+
+  - title: "Publications"
+    url: /publications/
+
   - title: "Teaching"
     url: /teaching/    
         
