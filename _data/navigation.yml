@@ -3,23 +3,23 @@ main:
   - title: "CV"
     url: /cv/
  
-  - title: "Projects"
-    url: /projects/   
+#   - title: "Projects"
+#     url: /projects/   
        
-  - title: "Presentations"
-    url: /talks/
+#   - title: "Presentations"
+#     url: /talks/
 
-  - title: "Publications"
-    url: /publications/
+#   - title: "Publications"
+#     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
+#   - title: "Teaching"
+#     url: /teaching/    
         
   - title: "Blog Posts"
     url: /categories/
     
-  - title: "About"
-    url: /about/
+#   - title: "About"
+#     url: /about/
 
-  - title: "Private"
-    url: /private/
+#   - title: "Private"
+#     url: /private/
