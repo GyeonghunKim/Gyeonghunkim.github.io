@@ -10,5 +10,5 @@ redirect_from:
 
 Hi!
 
-I am interested in various topics: quantum computing, machine learning, data visualization, partial differential equations.
+I am interested in various topics: quantum hardward simulation and experiment, machine learning adopted quantum control.
 ======
