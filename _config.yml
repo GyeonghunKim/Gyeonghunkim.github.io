@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gyeonghun Kim"
-  avatar           : "oAwmkqes_400x400.jpg"
+  avatar           : "profile.png" # "oAwmkqes_400x400.jpg"
   bio              : "SNU Undergrad. (Physics and Compuatational Science) / Qiskit Advocate / Interested in quantum hardware simulations and experiments."
   location         : "Seoul, Korea"
   employer         :
