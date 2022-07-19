@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Gyeonghun Kim"
   avatar           : "profile_gkim.png" # "oAwmkqes_400x400.jpg"
-  bio              : "SNU Undergrad. (Physics and Compuatational Science) / Qiskit Advocate / Interested in quantum hardware simulations and experiments."
-  location         : "Seoul, Korea"
+  bio              : "Duke Physics Ph.D. student. / Qiskit Advocate / Interested in quantum simulations and computations with ion trap."
+  location         : "Durham, NC, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pUDJPmYAAAAJ&hl=ko"
-  email            : "gyeonghun.kim.phys@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "gyeonghun.kim@duke.edu"
+  researchgate     : "https://www.researchgate.net/profile/Gyeonghun-Kim-3"
   uri              :
   bitbucket        :
   codepen          :
